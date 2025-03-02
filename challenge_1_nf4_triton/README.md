@@ -111,4 +111,4 @@ This method **eliminates** the bottleneck of storing half-precision weights in D
 ---
 
 ## 🔗 **Solution Links**
-- **Colab Notebook :** [INSERT LINK]
+- **Colab Notebook :** [Click Here](https://colab.research.google.com/drive/1tIV2YEXR9aWfjF6TgBk8ohcuS6jGJS0E)
