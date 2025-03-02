@@ -80,4 +80,4 @@ This script is **designed to run in Kaggle** with **2× Tesla T4 GPUs**.
 - **Pipeline parallelism (`zero bubble scheduling`) is optionally available** but is disabled because Kaggle’s ephemeral setup may break.
 
 ## 🔗 **Solution Links**
-- **Kaggle Notebook (QLoRA + FSDP2 on 2x T4 GPUs):** [INSERT LINK]
+- **Kaggle Notebook (QLoRA + FSDP2 on 2x T4 GPUs):** [Click Here](https://www.kaggle.com/code/rootyo/notebook-challenge-b)
