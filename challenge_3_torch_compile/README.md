@@ -147,17 +147,6 @@ print(f"[INFO] Training done. Elapsed: {end - start:.2f}s")
 
 ---
 
-## **🛠️ How to Run**
-```bash
-python train.py
-```
-or inside a Jupyter Notebook:
-```python
-!python train.py
-```
-
----
-
 ## **🎯 Final Verdict** 
 ✅ **Zero Graph Breaks, Zero Recompiles**  
 ✅ **Stable Loss & VRAM Savings Confirmed**  
