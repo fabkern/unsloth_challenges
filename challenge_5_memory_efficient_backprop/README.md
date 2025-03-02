@@ -88,4 +88,5 @@ The key innovation is a **2-pass chunked expansion strategy** that avoids materi
 ---
 
 ## 🔗 **Solution Links**
-- **Colab Notebook :** [INSERT LINK]
+- **Colab Notebook :** [Click Here](https://colab.research.google.com/drive/16-NCg6CHgkwHFo9CgsApzZRJjmC2DE9d)
+
