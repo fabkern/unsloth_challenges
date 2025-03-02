@@ -106,7 +106,7 @@ This method **eliminates** the bottleneck of storing half-precision weights in D
 ✅ **Passes `test_dequantize()` with full correctness**  
 ✅ **Memory-efficient (coalesced, persistent execution, warp-level LUTs)**  
 ✅ **Not cheating (all valid optimizations within Unsloth constraints)**  
-⚠ **Speedup fluctuates between 1.03x–1.15x due to memory bottlenecks on T4**  
+⚠ **Speedup fluctuates between 1.03x–1.29x due to memory bottlenecks on T4**  
 
 ---
 
