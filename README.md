@@ -1,6 +1,6 @@
 # 🦥 Unsloth Challenges 
 
-**Submitted by:** Fabian Kern
+**Submitted by:** Fabian Kern (fabkern@proton.me)
 
 ## **🚀 Summary: Scalable Optimizations & Production Impact**  
 
