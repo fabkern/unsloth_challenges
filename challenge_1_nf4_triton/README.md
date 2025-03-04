@@ -102,5 +102,5 @@ Although this challenge required **standalone NF4 decode**, a **real-world imple
 ---
 
 ## 🔗 **Solution Links**
-- **Colab Notebook:** [Click Here](https://drive.google.com/file/d/1qB443nK4kJ-zuUKLsLY_i0RA0yJu7A18/view?usp=sharing)  
+- **Colab Notebook:** [Click Here](https://colab.research.google.com/drive/1qB443nK4kJ-zuUKLsLY_i0RA0yJu7A18)  
 
