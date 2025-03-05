@@ -8,6 +8,11 @@ This project led to the development of **several optimizations and features** th
 
 **Key Innovations & Business Impact:**  
 
+🔹 🔥 Warp-Persistent Single-Pass NF4 Dequantization → 1.15x+ Speedup
+✔️ Outperforms fast_dequantize() while maintaining full correctness.
+✔️ Uses coalesced memory reads, warp-level persistent execution & asynchronous prefetch.
+✔️ Optimized for Tesla T4, removing redundant memory fetches.
+
 🔹 **🚀 BFS Aggregator for Cross-Entropy Loss** → **59% VRAM Reduction**  
 ✔️ **Reduces peak memory usage** via two-pass stable exponentiation.  
 ✔️ **Enables fine-tuning larger models on the same infrastructure.**  
