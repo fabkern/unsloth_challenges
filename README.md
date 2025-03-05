@@ -6,7 +6,7 @@
 
 This project led to the development of **several optimizations and features** that are directly applicable to large-scale **LLaMA fine-tuning and inference workloads**. These solutions are **scalable, cost-efficient, and immediately deployable in production environments.**  
 
-**Key Innovations & Business Impact:**  
+### **Key Innovations & Business Impact:**  
 
 🔹 **🔥 Warp-Persistent Single-Pass NF4 Dequantization** → **1.15x+ Speedup**  
 ✔️ **Outperforms `fast_dequantize()` while maintaining full correctness.**  
